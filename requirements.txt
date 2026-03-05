@@ -1,0 +1,4 @@
+langchain
+python-telegram-bot
+sqlite3
+lm-studio
